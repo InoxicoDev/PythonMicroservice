@@ -2,6 +2,7 @@
 Example microservice with Python stack
 
 **Infrastructure**
+- [ ] Python Setup
 - [ ] Logging
 
 **Capabilities**
