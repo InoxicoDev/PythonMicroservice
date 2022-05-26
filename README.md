@@ -2,6 +2,7 @@
 Example microservice with Python stack
 
 ## Prerequisites
+- [Git for Windows](https://gitforwindows.org/)
 - [Python 3.9](https://www.python.org/downloads/windows/)
 
 **Infrastructure**
