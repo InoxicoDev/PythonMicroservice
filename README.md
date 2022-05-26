@@ -16,12 +16,14 @@ Example microservice with Python stack
 
 ## Backlog
 
-**Infrastructure**
+**Infrastructure & Non Functionals**
 - [X] Python Setup
 - [ ] Logging
+- [ ] Centralized Error Handling
+- [ ] Authenticate (Client Secrets for Service to Service OAuth)
 
 **Capabilities**
-- [X] Hosted API (Service, Authenticate)
+- [X] Hosted API
 - [ ] Hosted Standard Services
 - [ ] ESB (Pub / Sub)
 - [ ] Logging
