@@ -6,11 +6,11 @@ Example microservice with Python stack
 - [Python 3.9](https://www.python.org/downloads/windows/)
 
 **Infrastructure**
-- [ ] Python Setup
+- [X] Python Setup
 - [ ] Logging
 
 **Capabilities**
-- [ ] Hosted API (Service, Authenticate)
+- [X] Hosted API (Service, Authenticate)
 - [ ] Hosted Standard Services
 - [ ] ESB (Pub / Sub)
-- [ ] Loggin
+- [ ] Logging
