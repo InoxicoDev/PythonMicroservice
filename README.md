@@ -1,5 +1,8 @@
-# PythonMicroservice
+# Python Microservice
 Example microservice with Python stack
+
+## Prerequisites
+- [Python 3.9](https://www.python.org/downloads/windows/)
 
 **Infrastructure**
 - [ ] Python Setup
